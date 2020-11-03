@@ -30,7 +30,7 @@ program
           const spinner = ora('Downloading template...')
           spinner.start()
           download(
-            'https://github.com:WjiaoJ/npm-cli-demo#main',
+            'https://github.com:ruffjs/ruff-esp-project#master',
             name,
             { clone: true },
             err => {

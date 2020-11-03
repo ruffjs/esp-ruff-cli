@@ -1,23 +1,23 @@
-# esp-ruff-cli
+# ruff-esp-cli
 
 ## Installation
 
 ```
-npm install -g esp-ruff-cli
+npm install -g ruff-esp-cli
 # OR
-yarn global add esp-ruff-cli
+yarn global add ruff-esp-cli
 ```
 
-After installation, you can access the esp-ruff-cli command on the command line. You can simply run vue to see if it displays a copy of the help information for all available commands to verify whether it is installed successfully.
+After installation, you can access the ruff-esp-cli command on the command line. You can simply run vue to see if it displays a copy of the help information for all available commands to verify whether it is installed successfully.
 
 You can also use this command to check whether the version is correct:：
 
 ```
-esp-ruff-cli --version
+ruff-esp-cli --version
 ```
 
 ## Create a project
 
 ```
-esp-ruff-cli init my-project
+ruff-esp-cli init my-project
 ```

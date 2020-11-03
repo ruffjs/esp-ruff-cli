@@ -1,9 +1,9 @@
 {
-  "name": "esp-ruff-cli",
+  "name": "ruff-esp-cli",
   "version": "1.0.1",
   "description": "based on node Scaffolding tools,Can quickly create a new ruff-esp32 project",
   "bin": {
-    "esp-ruff-cli": "./index.js"
+    "ruff-esp-cli": "./index.js"
   },
   "main": "./index.js",
   "scripts": {
